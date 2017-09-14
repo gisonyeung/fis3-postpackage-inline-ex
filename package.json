@@ -1,0 +1,24 @@
+{
+  "name": "fis3-postpackage-inline-ex",
+  "version": "1.0.0",
+  "description": "将HTML引用的资源文件内联，支持配置内联大小以及排除项",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisonyeung/fis3-postpackage-inline-ex.git"
+  },
+  "keywords": [
+    "fis3",
+    "postpackage",
+    "inline"
+  ],
+  "author": "gisonyeung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gisonyeung/fis3-postpackage-inline-ex/issues"
+  },
+  "homepage": "https://github.com/gisonyeung/fis3-postpackage-inline-ex#readme"
+}
